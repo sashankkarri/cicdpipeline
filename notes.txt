@@ -1,0 +1,1 @@
+ssh-keygen -t rsa -b 4096 -C "shyam.edu2019@gmail.com"
